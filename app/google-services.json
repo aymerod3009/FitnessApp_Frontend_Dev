@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161960966138",
+    "project_id": "fitnessapp-64b64",
+    "storage_bucket": "fitnessapp-64b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161960966138:android:c46b6db412004fe6655643",
+        "android_client_info": {
+          "package_name": "com.qrolic.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161960966138-qrjnma13vh9nmtec0c62omv8fjtnkukt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmiYTEhWv10JPyj1Aik15wU1JDpGUqCys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161960966138-qrjnma13vh9nmtec0c62omv8fjtnkukt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
